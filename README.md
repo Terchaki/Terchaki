@@ -1,9 +1,10 @@
 **<h2>Olá, Eu sou Lucas Henrique !!</h2>**
 
-- 🔭 Atualmente estou focado em estudar Front-end.
-- 🌱 Estou estudando JavaScript.
-- 📫 E-mail: lucas.hsm15@hotmail.com
-- ⚡ Em busca da minha primeira oportunidade profissional.
+- 🔭 Atualmente estou focado em me aperfeiçoar como Desenvolvedor Front-end, e também tenho me aprofundado em Back-end.
+- 🌱 Estou estudando C# e .Net.
+- 📫 E-mail: lucas.dev.contato@outlook.com
+- ⚡ Em busca de uma nova oportunidade profissional.
+- ⚡ Disponibilidade para início imediato.
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Terchaki&show_icons=true&theme=radical)
 
