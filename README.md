@@ -9,6 +9,30 @@
   📫 <strong>Email:</strong> <a href="mailto:lucas.dev.contato@outlook.com">lucas.dev.contato@outlook.com</a>
 </p>
 
+<br />
+
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff4500&center=true&vCenter=true&lines=Transformando+código+em+interfaces;Código+limpo+com+visão+de+produto+🧠" />
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor Front-end com quase três anos de experiência na área de TI.  
+Atuei no desenvolvimento de diversas aplicações, dentre elas destaco o **SGGP**, um sistema complexo desenvolvido para o **Hospital Albert Einstein**, no qual fui responsável por toda a implementação do Front-end da concepção ao deploy em produção.
+
+✔ **Engrenagem ativada:** adaptabilidade → foco → colaboração  
+✔ Onde muitos veem tarefas, vejo **desafios com potencial de escala**
+
+### 🚀 Resultados:
+
+- Otimizei a operação com um sistema web completo: produtividade da empresa aumentou em aproximadamente **500%**
+- Automatizei processos manuais com soluções integradas e recebi reconhecimento interno pelo impacto direto
+- Desenvolvi interfaces responsivas e interativas com base em protótipos do **Adobe XD**, elevando a experiência do usuário
+- Criei interfaces web adaptáveis e funcionais, integrando com Back-end via **API REST**, com entregas **100% dentro do prazo**
+- Contribuí com sugestões técnicas validadas e implementadas, otimizando fluxos e usabilidade
+
 ---
 
 ### 📊 **Estatísticas do GitHub**
